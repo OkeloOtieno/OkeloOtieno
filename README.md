@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Otieno</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flask**
 
 - 💬 Ask me about **MERN**
 
