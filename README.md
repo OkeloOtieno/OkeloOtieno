@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Otieno</h1>
 <h3 align="center">A passionate upcoming developer from Kenya</h3>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **some cool stuff**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Frontend Web Development**
 
 - 📫 How to reach me **emmanuelokello294@gmail.com**
 
