@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **some cool stuff**
 
-- 💬 Ask me about **Frontend Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **emmanuelokello294@gmail.com**
 
